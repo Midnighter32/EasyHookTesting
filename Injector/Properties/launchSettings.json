@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Injector - Start": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\Build\\DummyWindow.exe\" \"..\\HookTesting\\bin\\x64\\Debug\\net48\\HookTesting.dll\""
+    },
+    "Injector - PID": {
+      "commandName": "Project",
+      "commandLineArgs": "_ \"..\\HookTesting\\bin\\x64\\Debug\\net48\\HookTesting.dll\""
+    }
+  }
+}
